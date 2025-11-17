@@ -48,7 +48,7 @@ const Banner = () => {
                 <img src="./hero.png" alt="" />
             </div>
             
-            <section
+     <section
       className="w-full py-16 bg-gradient-to-r from-[#8452e9] to-[#9e69f0] text-white text-center"
     >
       {/* Main Title */}
