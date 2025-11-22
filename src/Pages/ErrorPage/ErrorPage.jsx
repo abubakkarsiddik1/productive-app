@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router';
+import Footer from '../../Components/Footer/Footer';
 
 const ErrorPage = () => {
     const navigate = useNavigate();
@@ -22,7 +23,7 @@ const ErrorPage = () => {
             <div className='bg-transparent bg-clip bg-gradient-to-r from-[#8452e9] to-[#9e69f0] p-2 rounded-xl text-white text-2xl'>
                 <Link onClick={() => navigate(-1)}  to={"/Go-Back"}>Go Back!</Link>
             </div>
-
+            
         </div>
     );
 };

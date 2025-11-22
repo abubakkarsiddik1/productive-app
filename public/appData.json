@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "image": "/images/app1.png",
+      "image": "/demo-app.png",
       "title": "Photo Master",
       "companyName": "PixelSoft Ltd.",
       "id": 1,
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "image": "/images/app2.png",
+      "image": "/app2.png",
       "title": "TaskFlow",
       "companyName": "NextGen Apps",
       "id": 2,
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "image": "/images/app3.png",
+      "image": "/app3.png",
       "title": "FitLife Tracker",
       "companyName": "HealthPoint",
       "id": 3,
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "image": "/images/app4.png",
+      "image": "/app4.png",
       "title": "LearnX",
       "companyName": "EduTech Global",
       "id": 4,
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "image": "/images/app5.png",
+      "image": "/app5.png",
       "title": "MusicWave",
       "companyName": "SoundSphere",
       "id": 5,
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "image": "/images/app6.png",
+      "image": "/app6.png",
       "title": "SafeVault",
       "companyName": "SecureTech",
       "id": 6,
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "image": "/images/app7.png",
+      "image": "/app7.png",
       "title": "WeatherPro",
       "companyName": "ClimateLab",
       "id": 7,
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "image": "/images/app8.png",
+      "image": "/app8.png",
       "title": "ChatMate AI",
       "companyName": "AI Labs",
       "id": 8,
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "image": "/images/app9.png",
+      "image": "/app9.png",
       "title": "NotePro",
       "companyName": "WriteSoft",
       "id": 9,
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "image": "/images/app10.png",
+      "image": "/app10.png",
       "title": "BudgetBuddy",
       "companyName": "FinTech Pro",
       "id": 10,
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "image": "/images/app11.png",
+      "image": "/app11.png",
       "title": "GameZone",
       "companyName": "FunPlay Ltd.",
       "id": 11,
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "image": "/images/app12.png",
+      "image": "/app12.png",
       "title": "TravelMate",
       "companyName": "GlobeSoft",
       "id": 12,
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "image": "/images/app13.png",
+      "image": "/app13.png",
       "title": "EduKids",
       "companyName": "SmartLearn",
       "id": 13,
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "image": "/images/app14.png",
+      "image": "/app14.png",
       "title": "MindCalm",
       "companyName": "RelaxTech",
       "id": 14,
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "image": "/images/app15.png",
+      "image": "/app15.png",
       "title": "ShopSmart",
       "companyName": "EcomX",
       "id": 15,
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "image": "/images/app16.png",
+      "image": "/app16.png",
       "title": "Foodify",
       "companyName": "EatHub",
       "id": 16,
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "image": "/images/app17.png",
+      "image": "/app17.png",
       "title": "LangMaster",
       "companyName": "GlobalLingua",
       "id": 17,
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "image": "/images/app18.png",
+      "image": "/app18.png",
       "title": "CryptoTrack",
       "companyName": "FinLabs",
       "id": 18,
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "image": "/images/app19.png",
+      "image": "/app19.png",
       "title": "ScannerGo",
       "companyName": "DocuTech",
       "id": 19,
@@ -343,7 +343,7 @@
       ]
     },
     {
-      "image": "/images/app20.png",
+      "image": "/app20.png",
       "title": "CleanerPro",
       "companyName": "BoostSoft",
       "id": 20,

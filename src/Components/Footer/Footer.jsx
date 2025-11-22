@@ -1,4 +1,5 @@
 import React from 'react';
+import ErrorPage from '../../Pages/ErrorPage/ErrorPage';
 
 const Footer = () => {
     return (
@@ -59,6 +60,7 @@ const Footer = () => {
             </div>
        
         </div>
+        
    </div>
     );
 };
